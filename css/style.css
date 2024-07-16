@@ -1,0 +1,46 @@
+body{
+    background-image: url('../images/2b2829ad77df09c3a9ec4b07a5ab2576.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 760px;
+
+
+}
+.header{
+    /* background-color: brown; */
+    background-image: url("../images/Thala\ &\ Thalapathy.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: 80px;
+    margin-top: 20px;
+    color: rgb(242, 233, 233);
+    text-align: center;
+    font-size: 15px;
+    font-stretch: extra-expanded;
+    letter-spacing: 5px;
+    -webkit-text-stroke: 1px black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.section1{
+    background-image: url('../images/Thalapathy1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 3px solid white;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
+
+
